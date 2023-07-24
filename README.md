@@ -152,5 +152,8 @@ Push to README.md and push to Github repository
 ### mahal.html:
 ![mahal](mahal.png)
 
+### validity:
+![validity](valid4.png)
+
 ## Result:
 Image-maps has been created successfully
